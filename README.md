@@ -5,3 +5,10 @@
  </div>
 
 ---
+
+# Parts
+
+| Part | Thema | Video | Branch |
+|------|-------|-------|--------|
+| 0 | Einstieg | [Video](https://www.youtube.com/watch?v=tTXHwWcUrDE) | *n/a* |
+| 1 | Projekt erstellen & deployen | *n/a* | [Branch](https://github.com/zekroTJA/JavaTutorial/tree/part-01) | 

@@ -1,3 +1,7 @@
-## Branch `prep`
+ <div align="center">
+     <h1>~ JAVA Grundlagen Tutorial ~</h1>
+     <strong>Dies ist die offizielle Repository zu der Java Grundlagen Tutorialreihe</strong><br><br>
 
-Here I will store and test all preparing stuff for new parts.
+ </div>
+
+---

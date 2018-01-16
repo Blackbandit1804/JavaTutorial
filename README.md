@@ -1,4 +1,5 @@
  <div align="center">
+     <img src="https://zekro.de/src/Java_logo_icon.png" width="1000">
      <h1>~ JAVA Grundlagen Tutorial ~</h1>
      <strong>Dies ist die offizielle Repository zu der Java Grundlagen Tutorialreihe</strong><br><br>
 

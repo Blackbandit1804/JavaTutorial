@@ -8,6 +8,10 @@
 
 # Parts
 
+☞ **[Full Playlist](https://www.youtube.com/playlist?list=PLthqW7GiLEwKGzfoT7mJ4FkgIjV_6lM1L)**
+
+> Für jeden Part des Tutorials lege ich in der Repository eine extra Branch an. Das heißt, wenn ihr euch das gesamte Projekt eines bestimmten Tutorialparts anschauen wollt, dann wählt einfach die entsprechende Branch aus. 
+
 | Part | Thema | Video | Branch |
 |------|-------|-------|--------|
 | 0 | Einstieg | [Video](https://www.youtube.com/watch?v=tTXHwWcUrDE) | *n/a* |

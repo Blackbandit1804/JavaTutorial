@@ -16,6 +16,9 @@ public class Main {
     // String -> Klasse
     String myString = "Hey was geht!";
 
+    String[] myStringArray = {"Hey", "ho", "yo"};
+    int[] myIntArray = {1, 2, 3};
+
     // -> https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
     public int myPublicInt;
     private int myPrivateInt;

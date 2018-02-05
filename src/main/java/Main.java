@@ -8,6 +8,8 @@ public class Main {
 
     /*
         <--[ Variablen Typen ]-->
+        Mehr Infos zu Variablentypen gibts hier:
+        https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
      */
     short myShort = 2;
     static int myInt = 123;
@@ -44,6 +46,8 @@ public class Main {
 
     /*
         <--[ Access Type: 'final' ]-->
+        Mehr Infos zu Access Types:
+        https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
      */
 
     private static final String MYSTATICFINASTRING = "Hey ho";

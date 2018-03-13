@@ -16,5 +16,5 @@
 | Part | Thema | Video | Branch |
 |------|-------|-------|--------|
 | 0 | Einstieg | [Video](https://www.youtube.com/watch?v=tTXHwWcUrDE) | *n/a* |
-| 1 | Projekt erstellen & deployen | [Video](https://youtu.be/Lap1SIzYcNk) | [Branch](https://github.com/zekroTJA/JavaTutorial/tree/part-01) | 
-| 2 | Variablentypen & Access Types | [Video](https://youtu.be/_3IcmkEpxJU) | [Branch](https://github.com/zekroTJA/JavaTutorial/tree/part-02) | 
+| 1 | Projekt erstellen & deployen | [Video](https://youtu.be/Lap1SIzYcNk) | [Code](https://github.com/zekroTJA/JavaTutorial/tree/part-01) | 
+| 2 | Variablentypen & Access Types | [Video](https://youtu.be/_3IcmkEpxJU) | [Code](https://github.com/zekroTJA/JavaTutorial/releases/tag/part-02) | 

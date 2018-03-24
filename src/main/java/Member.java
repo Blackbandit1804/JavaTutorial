@@ -11,7 +11,7 @@ public class Member extends User {
         this.nickname = nick;
     }
 
-    void getNick() {
+    String getNick() {
         return this.nickname;
     }
     

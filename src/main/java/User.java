@@ -12,8 +12,14 @@ public class User {
         this.name = name;
     }
 
-    void getName() {
-        return this.nickname;
+    String getName() {
+        return this.name;
+    }
+
+    static final String DEFAULT_NAME = "Detlef";
+
+    static String getNameStatic(User user) {
+        return user.getName();
     }
 
 }

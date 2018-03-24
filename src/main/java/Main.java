@@ -18,6 +18,11 @@ public class Main {
             "\nNick: " + member.getNick()
         );
 
+        System.out.printf(
+                "\nDefault name: " + User.DEFAULT_NAME +
+                "\nName static: " + User.getNameStatic(user)
+        );
+
     }
 
 }

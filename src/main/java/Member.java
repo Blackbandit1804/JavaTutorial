@@ -1,18 +1,18 @@
 public class Member extends User {
-    
+
     private String nickname;
 
     public Member(int id, String name) {
         super(id, name);
         this.nickname = name;
-    } 
+    }
 
-    void setNick(String nick) {
+    public void setNickname(String nick) {
         this.nickname = nick;
     }
 
-    String getNick() {
+    public String getNickname() {
         return this.nickname;
     }
-    
+
 }

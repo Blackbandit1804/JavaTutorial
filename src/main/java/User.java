@@ -8,18 +8,22 @@ public class User {
         this.name = name;
     }
 
+    String getName() {
+        return name;
+    }
+
     void setName(String name) {
         this.name = name;
     }
 
-    String getName() {
-        return this.name;
+
+    private static final String DEFAULT_NAME = "Herbert";
+
+    public static String getNameStatic(User user) {
+        return user.name;
     }
 
-    static final String DEFAULT_NAME = "Detlef";
-
-    static String getNameStatic(User user) {
-        return user.getName();
+    public static String getDefaultName() {
+        return DEFAULT_NAME;
     }
-
 }

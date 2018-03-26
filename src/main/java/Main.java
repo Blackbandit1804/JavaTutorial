@@ -1,26 +1,39 @@
 public class Main {
 
     public static void main(String[] args) {
-        
-        User user = new User(101, "Olaf");
+        User user1 = new User(1001, "Olaf");
 
         System.out.println(
-            "Name: " + user.getName() +
-            "\nID: " + user.id
+                "User 1:\n" +
+                "\tID: " + user1.id +
+                "\n\tName: " + user1.getName()
         );
 
-        Member member = new Member(201, "Günter");
-        member.setNick("Günni");
+        User user2 = new User(1002, "Günter");
+
+        user2.setName("Martin");
 
         System.out.println(
-            "Name: " + member.getName() +
-            "\nID: " + member.id +
-            "\nNick: " + member.getNick()
+                "User 2:\n" +
+                "\tID: " + user2.id +
+                "\n\tName: " + user2.getName()
         );
 
-        System.out.printf(
-                "\nDefault name: " + User.DEFAULT_NAME +
-                "\nName static: " + User.getNameStatic(user)
+        Member member1 = new Member(2001, "Dominik");
+        member1.setName("Dominic");
+        member1.setNickname("Dome");
+
+        System.out.println(
+                "Member 1:\n" +
+                "\tID: " + member1.id +
+                "\n\tName: " + member1.getName() +
+                "\n\tNickname: " + member1.getNickname()
+        );
+
+        System.out.println(
+                "STATICS:\n" +
+                        "\tDefault name: " + User.getDefaultName() +
+                        "\n\tName Static: " + User.getNameStatic(member1)
         );
 
     }

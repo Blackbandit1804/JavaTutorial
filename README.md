@@ -18,3 +18,4 @@
 | 0 | Einstieg | [Video](https://www.youtube.com/watch?v=tTXHwWcUrDE) |  |
 | 1 | Projekt erstellen & deployen | [Video](https://youtu.be/Lap1SIzYcNk) | [Code](https://github.com/zekroTJA/JavaTutorial/tree/part-01) | 
 | 2 | Variablentypen & Access Types | [Video](https://youtu.be/_3IcmkEpxJU) | [Code](https://github.com/zekroTJA/JavaTutorial/tree/part-02) | 
+| 3 | Klassen | [Video](https://youtu.be/aAmd6XNTV4E) | [Code](https://github.com/zekroTJA/JavaTutorial/tree/part-03) | 

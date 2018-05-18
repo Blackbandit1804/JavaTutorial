@@ -1,3 +1,3 @@
-## Branch `prep`
+### Part 02 - Variablentypen & Access Types	
 
-Here I will store and test all preparing stuff for new parts.
+☞ &nbsp; [**zum Video**](https://youtu.be/aAmd6XNTV4E)

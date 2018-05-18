@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# This is jus ta little compiling script for maven
+
+FILENAME=target/JavaTutorial-1.0-SNAPSHOT.jar
+
+if [ -z $1 ]
+then
+    if [ "$1" = "-run" ]
+    then
+        clear
+        java -jar $FILENAME
+        exit
+    fi
+    rm -f $FILENAME
+    if [ "$1" = "-clean" ]
+    then
+        mvn clean install
+    else
+        mvn install
+    fi
+fi
+
+if [ -f $FILENAME ]
+then
+    clear
+    java -jar $FILENAME
+fi
+
+
